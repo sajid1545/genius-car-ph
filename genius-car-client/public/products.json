@@ -1,0 +1,38 @@
+[
+	{
+		"id": "635fba880879eaf823c6a450",
+		"title": "Car Engine Plug",
+		"price": 241.53,
+		"picture": "https://i.ibb.co/SNvK4Nr/6.png"
+	},
+	{
+		"id": "635fba889ab66efc8e17caec",
+		"title": "Car Air Filter",
+		"price": 119.95,
+		"picture": "https://i.ibb.co/fXRrxZW/3.png"
+	},
+	{
+		"id": "635fba880f3ab9bf331f032d",
+		"title": "Brake",
+		"price": 177.61,
+		"picture": "https://i.ibb.co/kGCCP3p/1.png"
+	},
+	{
+		"id": "635fba881f9e35a278df4cab",
+		"title": "Suspensor",
+		"price": 279.7,
+		"picture": "https://i.ibb.co/BPDC5PS/2.png"
+	},
+	{
+		"id": "635fba883d2cd5318c0e2c1d",
+		"title": "Tyres",
+		"price": 165.33,
+		"picture": "https://i.ibb.co/Tg6YLMz/5.png"
+	},
+	{
+		"id": "635fba880761aa64cf3db747",
+		"title": "Battery",
+		"price": 158.9,
+		"picture": "https://i.ibb.co/rbTB4Nb/4.png"
+	}
+]
